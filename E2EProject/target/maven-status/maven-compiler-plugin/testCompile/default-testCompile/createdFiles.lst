@@ -1,0 +1,5 @@
+pageobject\LandingPage.class
+Selenium\E2EProject\HomePage.class
+Selenium\E2EProject\ValidateTest.class
+Selenium\E2EProject\AppTest.class
+pageobject\LoginPage.class
